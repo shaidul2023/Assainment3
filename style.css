@@ -1,0 +1,71 @@
+.display {
+    height: 100vh;
+    background-image: url(./Photos/bannar.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgrount {
+    background-color: rgb(226, 247, 244);
+}
+
+.displayText {
+    font-size: 60px;
+    padding-top: 130px;
+}
+
+.tomatoes1 {
+    height: 150px;
+}
+
+.egg {
+    height: 150px;
+}
+
+.secound {
+    width: 50%;
+}
+
+.one {
+    height: 350px;
+    width: 500px;
+    border: none;
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 30px;
+}
+
+.manuImage {
+    height: 200px;
+}
+
+.two {
+    width: 400px;
+    border-radius: 20px;
+}
+
+.team-1 {
+    height: 80px;
+    border-radius: 300px;
+}
+
+.fond {
+    font-size: 30px;
+    color: tomato;
+    margin: 20px 10px 50px 10px;
+
+}
+
+.name {
+    width: 40%;
+    border-right: 1px solid rgb(0, 0, 0);
+}
+
+.content {
+    width: 30%;
+}
+
+.aboutUs {
+    width: 30%;
+    border-right: 1px solid rgb(0, 0, 0);
+}
